@@ -1,5 +1,8 @@
 # TESTE PRÁTICO PROGRAMAÇÃO.
 
+> Author da entrega: Antonio Gabriel | [linkedin](https://www.linkedin.com/in/antgabriel/)
+> output da resposta da execucao: `output.txt`
+
 Considerando que uma indústria possui as pessoas/funcionários abaixo:
 
 Diante disso, você deve desenvolver um projeto java, com os seguintes requisitos:
