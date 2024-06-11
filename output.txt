@@ -1,0 +1,246 @@
+
+Employee João removed successfully.
+
+3.3 - Lista de funcionários:
+>>Starting employees list:
+Nome: Maria
+Data de Nascimento: 18/10/2000	| Salário: 2.009,44	| Função: Operador
+================================
+Nome: Caio
+Data de Nascimento: 02/05/1961	| Salário: 9.836,14	| Função: Coordenador
+================================
+Nome: Miguel
+Data de Nascimento: 14/10/1988	| Salário: 19.119,88	| Função: Diretor
+================================
+Nome: Alice
+Data de Nascimento: 05/01/1995	| Salário: 2.234,68	| Função: Recepcionista
+================================
+Nome: Heitor
+Data de Nascimento: 19/11/1999	| Salário: 1.582,72	| Função: Operador
+================================
+Nome: Arthur
+Data de Nascimento: 31/03/1993	| Salário: 4.071,84	| Função: Contador
+================================
+Nome: Laura
+Data de Nascimento: 08/07/1994	| Salário: 3.017,45	| Função: Gerente
+================================
+Nome: Heloísa
+Data de Nascimento: 24/05/2003	| Salário: 1.606,85	| Função: Eletricista
+================================
+Nome: Helena
+Data de Nascimento: 02/09/1996	| Salário: 2.799,93	| Função: Gerente
+================================
+Nome: Maria
+Data de Nascimento: 18/10/2000	| Salário: 2.009,44	| Função: Operador
+================================
+Nome: João
+Data de Nascimento: 12/05/1990	| Salário: 2.284,38	| Função: Operador
+================================
+Nome: Caio
+Data de Nascimento: 02/05/1961	| Salário: 9.836,14	| Função: Coordenador
+================================
+Nome: Miguel
+Data de Nascimento: 14/10/1988	| Salário: 19.119,88	| Função: Diretor
+================================
+Nome: Alice
+Data de Nascimento: 05/01/1995	| Salário: 2.234,68	| Função: Recepcionista
+================================
+Nome: Heitor
+Data de Nascimento: 19/11/1999	| Salário: 1.582,72	| Função: Operador
+================================
+Nome: Arthur
+Data de Nascimento: 31/03/1993	| Salário: 4.071,84	| Função: Contador
+================================
+Nome: Laura
+Data de Nascimento: 08/07/1994	| Salário: 3.017,45	| Função: Gerente
+================================
+Nome: Heloísa
+Data de Nascimento: 24/05/2003	| Salário: 1.606,85	| Função: Eletricista
+================================
+Nome: Helena
+Data de Nascimento: 02/09/1996	| Salário: 2.799,93	| Função: Gerente
+================================
+Updating payroll by 10.0%
+
+3.6 - Funcionários agrupados por função:
+>>Starting employees list for role: Operador
+Nome: Maria
+Data de Nascimento: 18/10/2000	| Salário: 2.210,384	| Função: Operador
+================================
+Nome: João
+Data de Nascimento: 12/05/1990	| Salário: 2.512,818	| Função: Operador
+================================
+Nome: Heitor
+Data de Nascimento: 19/11/1999	| Salário: 1.740,992	| Função: Operador
+================================
+>>Starting employees list for role: Eletricista
+Nome: Heloísa
+Data de Nascimento: 24/05/2003	| Salário: 1.767,535	| Função: Eletricista
+================================
+>>Starting employees list for role: Recepcionista
+Nome: Alice
+Data de Nascimento: 05/01/1995	| Salário: 2.458,148	| Função: Recepcionista
+================================
+>>Starting employees list for role: Diretor
+Nome: Miguel
+Data de Nascimento: 14/10/1988	| Salário: 21.031,868	| Função: Diretor
+================================
+>>Starting employees list for role: Gerente
+Nome: Laura
+Data de Nascimento: 08/07/1994	| Salário: 3.319,195	| Função: Gerente
+================================
+Nome: Helena
+Data de Nascimento: 02/09/1996	| Salário: 3.079,923	| Função: Gerente
+================================
+>>Starting employees list for role: Coordenador
+Nome: Caio
+Data de Nascimento: 02/05/1961	| Salário: 10.819,754	| Função: Coordenador
+================================
+>>Starting employees list for role: Contador
+Nome: Arthur
+Data de Nascimento: 31/03/1993	| Salário: 4.479,024	| Função: Contador
+================================
+
+3.8 - Aniversariantes de outubro e dezembro:
+Funcionarios agrupados durante a inserção inicial
+>>Starting employees list by birth date month:
+Nome: Maria
+Data de Nascimento: 18/10/2000	| Salário: 2.210,384	| Função: Operador
+================================
+Nome: Miguel
+Data de Nascimento: 14/10/1988	| Salário: 21.031,868	| Função: Diretor
+================================
+Nome: Maria
+Data de Nascimento: 18/10/2000	| Salário: 2.210,384	| Função: Operador
+================================
+Nome: Miguel
+Data de Nascimento: 14/10/1988	| Salário: 21.031,868	| Função: Diretor
+================================
+
+3.9 - Funcionário mais velho:
+>>Starting oldest employee:
+Nome: Caio
+Idade: 63
+================================
+
+3.10 - Funcionários em ordem alfabética:
+>>Starting employees list in alphabetic order:
+Nome: Alice
+Data de Nascimento: 05/01/1995	| Salário: 2.458,148	| Função: Recepcionista
+================================
+Nome: Alice
+Data de Nascimento: 05/01/1995	| Salário: 2.458,148	| Função: Recepcionista
+================================
+Nome: Arthur
+Data de Nascimento: 31/03/1993	| Salário: 4.479,024	| Função: Contador
+================================
+Nome: Arthur
+Data de Nascimento: 31/03/1993	| Salário: 4.479,024	| Função: Contador
+================================
+Nome: Caio
+Data de Nascimento: 02/05/1961	| Salário: 10.819,754	| Função: Coordenador
+================================
+Nome: Caio
+Data de Nascimento: 02/05/1961	| Salário: 10.819,754	| Função: Coordenador
+================================
+Nome: Heitor
+Data de Nascimento: 19/11/1999	| Salário: 1.740,992	| Função: Operador
+================================
+Nome: Heitor
+Data de Nascimento: 19/11/1999	| Salário: 1.740,992	| Função: Operador
+================================
+Nome: Helena
+Data de Nascimento: 02/09/1996	| Salário: 3.079,923	| Função: Gerente
+================================
+Nome: Helena
+Data de Nascimento: 02/09/1996	| Salário: 3.079,923	| Função: Gerente
+================================
+Nome: Heloísa
+Data de Nascimento: 24/05/2003	| Salário: 1.767,535	| Função: Eletricista
+================================
+Nome: Heloísa
+Data de Nascimento: 24/05/2003	| Salário: 1.767,535	| Função: Eletricista
+================================
+Nome: João
+Data de Nascimento: 12/05/1990	| Salário: 2.512,818	| Função: Operador
+================================
+Nome: Laura
+Data de Nascimento: 08/07/1994	| Salário: 3.319,195	| Função: Gerente
+================================
+Nome: Laura
+Data de Nascimento: 08/07/1994	| Salário: 3.319,195	| Função: Gerente
+================================
+Nome: Maria
+Data de Nascimento: 18/10/2000	| Salário: 2.210,384	| Função: Operador
+================================
+Nome: Maria
+Data de Nascimento: 18/10/2000	| Salário: 2.210,384	| Função: Operador
+================================
+Nome: Miguel
+Data de Nascimento: 14/10/1988	| Salário: 21.031,868	| Função: Diretor
+================================
+Nome: Miguel
+Data de Nascimento: 14/10/1988	| Salário: 21.031,868	| Função: Diretor
+================================
+
+3.11 - Total dos salários: 104.326,464
+
+3.12 - Salário em salários mínimos:
+>>Starting employees list by salary in minimum base:
+Nome: Maria
+Salarios minimo: 1.82
+================================
+Nome: Caio
+Salarios minimo: 8.93
+================================
+Nome: Miguel
+Salarios minimo: 17.35
+================================
+Nome: Alice
+Salarios minimo: 2.03
+================================
+Nome: Heitor
+Salarios minimo: 1.44
+================================
+Nome: Arthur
+Salarios minimo: 3.70
+================================
+Nome: Laura
+Salarios minimo: 2.74
+================================
+Nome: Heloísa
+Salarios minimo: 1.46
+================================
+Nome: Helena
+Salarios minimo: 2.54
+================================
+Nome: Maria
+Salarios minimo: 1.82
+================================
+Nome: João
+Salarios minimo: 2.07
+================================
+Nome: Caio
+Salarios minimo: 8.93
+================================
+Nome: Miguel
+Salarios minimo: 17.35
+================================
+Nome: Alice
+Salarios minimo: 2.03
+================================
+Nome: Heitor
+Salarios minimo: 1.44
+================================
+Nome: Arthur
+Salarios minimo: 3.70
+================================
+Nome: Laura
+Salarios minimo: 2.74
+================================
+Nome: Heloísa
+Salarios minimo: 1.46
+================================
+Nome: Helena
+Salarios minimo: 2.54
+================================
